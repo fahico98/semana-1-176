@@ -101,3 +101,40 @@ nav > ul > li{
    font-size: 14px;
    color:  rgb(0, 102, 205);
 }
+
+/* News ------------------------------------------------------------------------------*/
+
+.news-container{
+   width: 100%;
+   padding-top: 100px;
+}
+
+.news-title{
+   text-align: center;
+   color: rgb(0, 102, 205);
+}
+
+.col-2{
+   width: 49.8%;
+   height: 220px;
+   display: inline-flex;
+   padding: 0;
+   margin: 0 0 20px 0;
+   text-align: center;
+}
+
+.new-image{
+   height: 100%;
+   display: inline-block;
+}
+
+.new-text{
+   text-align: left;
+   display: inline;
+   margin: 0 10px;
+}
+
+.new-link{
+   font-size: 14px;
+   color:  rgb(0, 102, 205);
+}
