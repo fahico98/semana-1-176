@@ -138,3 +138,40 @@ nav > ul > li{
    font-size: 14px;
    color:  rgb(0, 102, 205);
 }
+
+/* Members ------------------------------------------------------------------------------*/
+
+.members-container{
+   /*
+   width: 100%;*/
+   padding-top: 100px;
+   height: 500px;
+   padding-bottom: 100px;
+}
+
+
+.members-title{
+   text-align: center;
+   color: rgb(0, 102, 205);
+}
+
+
+.col-5{
+   width: 19%;
+   height: 400px;
+   display: inline-block;
+   margin: 5px 4px 0;
+   text-align: center;
+}
+
+
+.member-image{
+   height: 40%;
+   display: inline-block;
+}
+
+.member-text{
+   text-align: center;
+   display: inline;
+   margin: 0 20px;
+}
