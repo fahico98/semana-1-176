@@ -66,3 +66,38 @@ nav > ul > li{
    display: inline;
    margin-right: 20px;
 }
+
+/* Services ------------------------------------------------------------------------------*/
+
+.services-container{
+   width: 100%;
+   padding-top: 100px;
+}
+
+.col-3{
+   width: 33.086%;
+   height: 470px;
+   display: inline-block;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+
+.service-image{
+   width: 350px;
+}
+
+.service-description{
+   text-align: justify;
+   margin: 0 30px;
+}
+
+.services-title{
+   text-align: center;
+   color: rgb(0, 102, 205);
+}
+
+.service-link{
+   font-size: 14px;
+   color:  rgb(0, 102, 205);
+}
