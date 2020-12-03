@@ -175,3 +175,38 @@ nav > ul > li{
    display: inline;
    margin: 0 20px;
 }
+
+/* Footer ------------------------------------------------------------------------------*/
+
+footer{
+   background-color: rgb(0, 102, 205);
+   height: auto;
+   width: 100%;
+}
+
+.footer-container{
+   width: 100%;
+   height: auto;
+   display: flex; 
+}
+
+.footer-text{
+   color:  rgb(255, 255, 255);
+   text-align: left;
+   display: inline;   
+   margin: 0 20px;
+}
+
+.footer-link{
+   font-size: 14px;
+   color:  rgb(255, 255, 255);
+}
+
+.colum-2{
+   width: 49.8%;
+   height: 110px;
+   display: inline-flex;
+   padding: 0;
+   margin: 0 0 20px 0;
+   text-align: center;
+} 
